@@ -1,1 +1,1 @@
-# wa-repo-component
+Footer shortcuts, html and css files.
